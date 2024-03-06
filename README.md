@@ -1,6 +1,6 @@
                                           # Initia
 
-[WEBSITE](https://initia.xyz/) \   [Twitter](https://twitter.com/initiafdn/) \
+[WEBSITE](https://initia.xyz/)   [Twitter](https://twitter.com/initiafdn/)    [discord]( https://discord.gg/initia/)
 
 ![Initia](https://pbs.twimg.com/profile_banners/1604741451404873729/1671784127/1500x500)/
 initia - это блокчейн-сеть нового поколения, основанная на концепции связанных роллапов. Эта сеть, построенная на базе layer1 блокчейна и использующая язык программирования move для смарт-контрактов, была разработана с целью усиления роллапов через мощный инструментарий - opinit stack.
