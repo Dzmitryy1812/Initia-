@@ -1,4 +1,4 @@
-# Initia-
+                                # Initia
 
 [WEBSITE](https://initia.xyz/) \
 [Twitter](https://twitter.com/initiafdn/) \
