@@ -1,4 +1,4 @@
-                                            INITIA
+    INITIA
 
 ![Initia](https://pbs.twimg.com/profile_banners/1604741451404873729/1671784127/1500x500)
 
