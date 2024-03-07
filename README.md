@@ -32,8 +32,9 @@ Minitia  - это модульные блокчейны, разработанн�
 
 8)EVM, MoveVM, WasmVM.
 
-    Interwoven.
-    Only on Initia.
+Interwoven.
+
+Only on Initia.
 
 ![Initia](https://pbs.twimg.com/media/GHheRHCbkAEokpn?format=jpg&name=4096x4096)
 
